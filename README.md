@@ -2,7 +2,7 @@
 
   - 😃 Hello my name is Maga and I'm from russia. 😃
   - 🏠 My home location is currently in Austria 🇦🇹 
-  - 🖥️ Programming languages: Java, JavaScript, C#, Python
+  - 🖥️ Programming languages: Java, JavaScript, TypeScript, C#, Python
   - ⚙️ Most used technologies: React (NextJs), Quarkus (Java), Spring (Java)
 
  <p>
