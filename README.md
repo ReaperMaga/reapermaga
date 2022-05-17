@@ -2,7 +2,7 @@
 
   - 😃 Hello my name is Maga and I'm from Russia. 😃
   - 🏠 My home location currently is in Austria 🇦🇹 
-  - 🖥️ Programming languages: Java, JavaScript, TypeScript, C#, Python
+  - 🖥️ Programming languages: Java, JavaScript, TypeScript, C#, Python, Go
   - ⚙️ Most used technologies: React (NextJs), Quarkus (Java), Spring (Java)
   - 🔎 Databases: MongoDB, MySQL (SQL in General), Redis, RethinkDB
   - 🔖 DevOps: Git, CI/CD, Docker, Bash, Kubernetes
