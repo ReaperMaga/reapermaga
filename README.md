@@ -1,18 +1,23 @@
 ### About me
 
-  - 😃 Hello my name is Maga and I'm from Russia. 😃
-  - 🏠 My home location currently is in Austria 🇦🇹 
-  - 🖥️ Programming languages: Java, JavaScript, TypeScript, C#, Python, Go
-  - ⚙️ Most used technologies: React (NextJs), Quarkus (Java), Spring (Java)
-  - 🔎 Databases: MongoDB, MySQL (SQL in General), Redis, RethinkDB
-  - 🔖 DevOps: Git, CI/CD, Docker, Bash, Kubernetes
-  - 🔭 Knowledge in CI/CD services: Github Workflows, Drone, OneDev
- 
+👋 Hello my name is Maga (my name comes from Russia and has nothing to do with any politics) 
+
+🏠 <b>Location:</b> Austria 🇦🇹
+
+🖥️ <b>Programming Languages:</b> Java, JavaScript, TypeScript, C#, Python, Go, Kotlin
+
+⚙️ <b>Technologies:</b> Quarkus (Java/Kotlin), Spring (Java), Vue/Nuxt
+
+🔎 <b>Databases:</b> MongoDB, PostgreSQL (SQL in general), Redis
+
+🔖 <b>DevOps Tools:</b> Git, CI/CD, Docker, Bash, Kubernetes
+
+🔭 <b>CI/CD Services Expertise:</b> GitHub Workflows, Drone, OneDev
+
+🧑‍🎓 <b>Currently learning:</b> KMP Compose, Fritz2 Kotlin
+
 
  <p>
-  <a href="https://waylonwalker.com/latest"><img height="140" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaperMaga&layout=compact&theme=radical"></a>
+  <a href="https://waylonwalker.com/latest"><img height="140" align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaperMaga&layout=compact&theme=radical"></a>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=ReaperMaga&count_private=true&show_icons=true&theme=radical" />
-</a>
 
