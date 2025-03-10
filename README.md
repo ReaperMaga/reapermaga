@@ -10,11 +10,11 @@
 
 🔎 <b>Databases:</b> MongoDB, PostgreSQL (SQL in general), Redis
 
-🔖 <b>DevOps Tools:</b> Git, CI/CD, Docker, Bash, Kubernetes
+🔖 <b>DevOps Tools:</b> Git, CI/CD, Docker, Bash, Kubernetes, Coolify
 
 🔭 <b>CI/CD Services Expertise:</b> GitHub Workflows, Drone, OneDev
 
-🧑‍🎓 <b>Currently learning:</b> KMP Compose, Fritz2 Kotlin
+🧑‍🎓 <b>Currently learning:</b> KMP Compose, Fritz2 Kotlin, Jetbrains Exposed
 
 
  <p>
