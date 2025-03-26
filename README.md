@@ -1,6 +1,6 @@
 ### About me
 
-👋 Hello my name is Maga (my name comes from Russia and has nothing to do with any politics) 
+👋 Hello my name is Maga (my name comes from Russia and has nothing to do with politics) 
 
 🏠 <b>Location:</b> Austria 🇦🇹
 
